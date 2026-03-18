@@ -65,5 +65,4 @@ housing_analysis/
 
 ## 📁 Dataset
 - **File:** Housing.csv
-- **Domain:** Real Estate
 - **Target Variable:** Price
